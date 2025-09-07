@@ -91,12 +91,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&width=550&lines=✨+Thanks+for+visiting+my+GitHub+Profile!;💻+Let's+build+something+amazing+together!;🚀+Check+out+my+projects+and+connect+with+me!" alt="Thanks for visiting animation" />
 </p>  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Thank You Animation">
-</p>
-
-<p align="center">
-  <b>💡 Don't forget to ⭐ star the repositories you like!</b>
-</p>
-
 ✨ Check out my repositories and connect with me for collaboration.  
